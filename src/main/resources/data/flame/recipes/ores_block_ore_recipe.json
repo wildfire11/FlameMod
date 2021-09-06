@@ -1,0 +1,13 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "flame:ores_block"
+    }
+  ],
+  "result": {
+    "item": "flame:ores_ingot",
+    "count": 9
+  }
+}

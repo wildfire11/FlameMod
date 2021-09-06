@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "flame:block/woods_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "flame:block/woods_log"
+    },
+    "axis=z": {
+      "model": "flame:block/woods_log",
+      "x": 90
+    }
+  }
+}

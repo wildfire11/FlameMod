@@ -1,0 +1,13 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "flame:light_block"
+    }
+  ],
+  "result": {
+    "item": "flame:light",
+    "count": 9
+  }
+}

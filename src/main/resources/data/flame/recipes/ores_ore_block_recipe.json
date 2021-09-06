@@ -1,0 +1,42 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:ores_ingot"
+    },
+    "1": {
+      "item": "flame:ores_ingot"
+    },
+    "2": {
+      "item": "flame:ores_ingot"
+    },
+    "3": {
+      "item": "flame:ores_ingot"
+    },
+    "4": {
+      "item": "flame:ores_ingot"
+    },
+    "5": {
+      "item": "flame:ores_ingot"
+    },
+    "6": {
+      "item": "flame:ores_ingot"
+    },
+    "7": {
+      "item": "flame:ores_ingot"
+    },
+    "8": {
+      "item": "flame:ores_ingot"
+    }
+  },
+  "result": {
+    "item": "flame:ores_block",
+    "count": 1
+  }
+}

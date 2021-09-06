@@ -1,0 +1,13 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "flame:woods_planks"
+    }
+  ],
+  "result": {
+    "item": "flame:woods_button",
+    "count": 1
+  }
+}

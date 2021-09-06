@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flame:blocks/deathblockf",
+    "up": "flame:blocks/deathblockf",
+    "north": "flame:blocks/deathblockf",
+    "east": "flame:blocks/deathblockf",
+    "south": "flame:blocks/deathblockf",
+    "west": "flame:blocks/deathblockf",
+    "particle": "flame:blocks/deathblockf"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "flame:block/dark_portal_ew"
+    },
+    "axis=x": {
+      "model": "flame:block/dark_portal_ns"
+    }
+  }
+}

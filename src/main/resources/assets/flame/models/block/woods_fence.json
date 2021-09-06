@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "flame:blocks/woods_planks",
+    "particle": "flame:blocks/woods_planks"
+  }
+}

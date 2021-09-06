@@ -1,0 +1,36 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:darkbap"
+    },
+    "1": {
+      "item": "flame:darkbap"
+    },
+    "2": {
+      "item": "flame:darkbap"
+    },
+    "3": {
+      "item": "flame:darkbap"
+    },
+    "5": {
+      "item": "flame:darkbap"
+    },
+    "6": {
+      "item": "flame:darkbap"
+    },
+    "8": {
+      "item": "flame:darkbap"
+    }
+  },
+  "result": {
+    "item": "flame:darkbap_armor_leggings",
+    "count": 1
+  }
+}

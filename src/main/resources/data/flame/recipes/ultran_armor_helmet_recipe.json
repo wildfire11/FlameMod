@@ -1,0 +1,29 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:ultran_ingot"
+    },
+    "1": {
+      "item": "flame:ultran_ingot"
+    },
+    "2": {
+      "item": "flame:ultran_ingot"
+    },
+    "3": {
+      "item": "flame:ultran_ingot"
+    },
+    "5": {
+      "item": "flame:ultran_ingot"
+    }
+  },
+  "result": {
+    "item": "flame:ultran_armor_helmet",
+    "count": 1
+  }
+}

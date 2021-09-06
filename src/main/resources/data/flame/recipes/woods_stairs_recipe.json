@@ -1,0 +1,33 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:woods_planks"
+    },
+    "3": {
+      "item": "flame:woods_planks"
+    },
+    "4": {
+      "item": "flame:woods_planks"
+    },
+    "6": {
+      "item": "flame:woods_planks"
+    },
+    "7": {
+      "item": "flame:woods_planks"
+    },
+    "8": {
+      "item": "flame:woods_planks"
+    }
+  },
+  "result": {
+    "item": "flame:woods_stairs",
+    "count": 4
+  }
+}

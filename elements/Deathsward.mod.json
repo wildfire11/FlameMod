@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "op",
+    "customModelName": "Normal",
+    "name": "Deathsward",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 10,
+    "efficiency": 5.0,
+    "attackSpeed": 5.0,
+    "enchantability": 10,
+    "damageVsEntity": 9999.0,
+    "usageCount": 9999,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "DeathswardToolInHandTick"
+    }
+  }
+}

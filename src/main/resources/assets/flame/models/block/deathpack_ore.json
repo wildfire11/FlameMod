@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "flame:blocks/deathpack_ore",
+    "particle": "flame:blocks/deathpack_ore"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:woods_log"
+    }
+  ],
+  "result": {
+    "item": "flame:woods_planks",
+    "count": 4
+  }
+}

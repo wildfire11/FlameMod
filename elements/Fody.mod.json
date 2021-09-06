@@ -1,0 +1,41 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "try",
+    "customModelName": "Normal",
+    "name": "Fody",
+    "rarity": "EPIC",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 41,
+    "saturation": 99.0,
+    "eatingSpeed": 40,
+    "resultItem": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "FodyFoodEaten"
+    },
+    "onEntityHitWith": {
+      "name": "FodyLivingEntityIsHitWithItem"
+    },
+    "onItemInUseTick": {
+      "name": "FodyItemInHandTick"
+    },
+    "onCrafted": {
+      "name": "FodyItemIsCraftedsmelted"
+    },
+    "onDroppedByPlayer": {
+      "name": "FodyItemIsDroppedByPlayer"
+    }
+  }
+}

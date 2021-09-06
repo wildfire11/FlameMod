@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "flame:block/woods_slab"
+    },
+    "type=top": {
+      "model": "flame:block/woods_slab_top"
+    },
+    "type=double": {
+      "model": "flame:block/woods_slab_full"
+    }
+  }
+}

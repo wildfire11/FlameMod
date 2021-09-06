@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "darknexxx",
+    "customModelName": "Normal",
+    "name": "Darkness",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Deathsward"
+    },
+    "shootConstantly": false,
+    "usageCount": 99000,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 99000.0,
+    "bulletPower": 100.0,
+    "bulletDamage": 1000.0,
+    "bulletKnockback": 19,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Darksward"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "gdxfgfxg.png"
+  }
+}

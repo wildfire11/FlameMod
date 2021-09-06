@@ -1,0 +1,1488 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Death",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "death",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Deathblock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathblock"
+    },
+    {
+      "name": "DeathswardToolInHandTick",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathsward_tool_in_hand_tick",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Deathsward",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathsward"
+    },
+    {
+      "name": "Dead",
+      "type": "biome",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead"
+    },
+    {
+      "name": "Dark",
+      "type": "dimension",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Darksward",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darksward"
+    },
+    {
+      "name": "Darkblock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkblock"
+    },
+    {
+      "name": "Darkbiome",
+      "type": "biome",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbiome"
+    },
+    {
+      "name": "Darkdragon",
+      "type": "livingentity",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkdragon"
+    },
+    {
+      "name": "Darkness",
+      "type": "rangeditem",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkness"
+    },
+    {
+      "name": "Deathf",
+      "type": "fluid",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathf",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "DeatharmorArmor",
+      "type": "armor",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deatharmor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DeatharmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deatharmor_armor_helmet_recipe"
+    },
+    {
+      "name": "DeatharmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deatharmor_armor_body_recipe"
+    },
+    {
+      "name": "DeatharmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deatharmor_armor_leggings_recipe"
+    },
+    {
+      "name": "DeatharmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deatharmor_armor_boots_recipe"
+    },
+    {
+      "name": "Darkbap",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap"
+    },
+    {
+      "name": "DarkbapOre",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_ore"
+    },
+    {
+      "name": "DarkbapBlock",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_block"
+    },
+    {
+      "name": "DarkbapOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_ore_block_recipe"
+    },
+    {
+      "name": "DarkbapBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_block_ore_recipe"
+    },
+    {
+      "name": "DarkbapOreSmelting",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_ore_smelting"
+    },
+    {
+      "name": "DarkbapPickaxe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_pickaxe"
+    },
+    {
+      "name": "DarkbapAxe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_axe"
+    },
+    {
+      "name": "DarkbapSword",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_sword"
+    },
+    {
+      "name": "DarkbapShovel",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_shovel"
+    },
+    {
+      "name": "DarkbapHoe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_hoe"
+    },
+    {
+      "name": "DarkbapPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_pickaxe_recipe"
+    },
+    {
+      "name": "DarkbapAxeRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_axe_recipe"
+    },
+    {
+      "name": "DarkbapSwordRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_sword_recipe"
+    },
+    {
+      "name": "DarkbapShovelRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_shovel_recipe"
+    },
+    {
+      "name": "DarkbapHoeRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_hoe_recipe"
+    },
+    {
+      "name": "DarkbapArmor",
+      "type": "armor",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DarkbapArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_armor_helmet_recipe"
+    },
+    {
+      "name": "DarkbapArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_armor_body_recipe"
+    },
+    {
+      "name": "DarkbapArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_armor_leggings_recipe"
+    },
+    {
+      "name": "DarkbapArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkbap_armor_boots_recipe"
+    },
+    {
+      "name": "ByePickaxe",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_pickaxe"
+    },
+    {
+      "name": "ByeAxe",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_axe"
+    },
+    {
+      "name": "ByeSword",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_sword"
+    },
+    {
+      "name": "ByeShovel",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_shovel"
+    },
+    {
+      "name": "ByeHoe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_hoe"
+    },
+    {
+      "name": "ByePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_pickaxe_recipe"
+    },
+    {
+      "name": "ByeAxeRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_axe_recipe"
+    },
+    {
+      "name": "ByeSwordRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_sword_recipe"
+    },
+    {
+      "name": "ByeShovelRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_shovel_recipe"
+    },
+    {
+      "name": "ByeHoeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bye_hoe_recipe"
+    },
+    {
+      "name": "Deathpack",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack"
+    },
+    {
+      "name": "DeathpackOre",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_ore"
+    },
+    {
+      "name": "DeathpackBlock",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_block"
+    },
+    {
+      "name": "DeathpackOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_ore_block_recipe"
+    },
+    {
+      "name": "DeathpackBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_block_ore_recipe"
+    },
+    {
+      "name": "DeathpackOreSmelting",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_ore_smelting"
+    },
+    {
+      "name": "DeathpackPickaxe",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_pickaxe"
+    },
+    {
+      "name": "DeathpackAxe",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_axe"
+    },
+    {
+      "name": "DeathpackSword",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_sword"
+    },
+    {
+      "name": "DeathpackShovel",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_shovel"
+    },
+    {
+      "name": "DeathpackHoe",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_hoe"
+    },
+    {
+      "name": "DeathpackPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_pickaxe_recipe"
+    },
+    {
+      "name": "DeathpackAxeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_axe_recipe"
+    },
+    {
+      "name": "DeathpackSwordRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_sword_recipe"
+    },
+    {
+      "name": "DeathpackShovelRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_shovel_recipe"
+    },
+    {
+      "name": "DeathpackHoeRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_hoe_recipe"
+    },
+    {
+      "name": "DeathpackArmor",
+      "type": "armor",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DeathpackArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_armor_helmet_recipe"
+    },
+    {
+      "name": "DeathpackArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_armor_body_recipe"
+    },
+    {
+      "name": "DeathpackArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_armor_leggings_recipe"
+    },
+    {
+      "name": "DeathpackArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathpack_armor_boots_recipe"
+    },
+    {
+      "name": "UltranIngot",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_ingot"
+    },
+    {
+      "name": "UltranOre",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_ore"
+    },
+    {
+      "name": "UltranBlock",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_block"
+    },
+    {
+      "name": "UltranOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_ore_block_recipe"
+    },
+    {
+      "name": "UltranBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_block_ore_recipe"
+    },
+    {
+      "name": "UltranOreSmelting",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_ore_smelting"
+    },
+    {
+      "name": "UltranPickaxe",
+      "type": "tool",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_pickaxe"
+    },
+    {
+      "name": "UltranAxe",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_axe"
+    },
+    {
+      "name": "UltranSword",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_sword"
+    },
+    {
+      "name": "UltranShovel",
+      "type": "tool",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_shovel"
+    },
+    {
+      "name": "UltranHoe",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_hoe"
+    },
+    {
+      "name": "UltranPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_pickaxe_recipe"
+    },
+    {
+      "name": "UltranAxeRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_axe_recipe"
+    },
+    {
+      "name": "UltranSwordRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_sword_recipe"
+    },
+    {
+      "name": "UltranShovelRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_shovel_recipe"
+    },
+    {
+      "name": "UltranHoeRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_hoe_recipe"
+    },
+    {
+      "name": "UltranArmor",
+      "type": "armor",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "UltranArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_armor_helmet_recipe"
+    },
+    {
+      "name": "UltranArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_armor_body_recipe"
+    },
+    {
+      "name": "UltranArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_armor_leggings_recipe"
+    },
+    {
+      "name": "UltranArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultran_armor_boots_recipe"
+    },
+    {
+      "name": "Light",
+      "type": "item",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light"
+    },
+    {
+      "name": "LightOre",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_ore"
+    },
+    {
+      "name": "LightBlock",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_block"
+    },
+    {
+      "name": "LightOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_ore_block_recipe"
+    },
+    {
+      "name": "LightBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_block_ore_recipe"
+    },
+    {
+      "name": "LightOreSmelting",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_ore_smelting"
+    },
+    {
+      "name": "LightPickaxe",
+      "type": "tool",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_pickaxe"
+    },
+    {
+      "name": "LightAxe",
+      "type": "tool",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_axe"
+    },
+    {
+      "name": "LightSword",
+      "type": "tool",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_sword"
+    },
+    {
+      "name": "LightShovel",
+      "type": "tool",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_shovel"
+    },
+    {
+      "name": "LightHoe",
+      "type": "tool",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_hoe"
+    },
+    {
+      "name": "LightPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_pickaxe_recipe"
+    },
+    {
+      "name": "LightAxeRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_axe_recipe"
+    },
+    {
+      "name": "LightSwordRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_sword_recipe"
+    },
+    {
+      "name": "LightShovelRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_shovel_recipe"
+    },
+    {
+      "name": "LightHoeRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_hoe_recipe"
+    },
+    {
+      "name": "LightArmor",
+      "type": "armor",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LightArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_armor_helmet_recipe"
+    },
+    {
+      "name": "LightArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_armor_body_recipe"
+    },
+    {
+      "name": "LightArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_armor_leggings_recipe"
+    },
+    {
+      "name": "LightArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_armor_boots_recipe"
+    },
+    {
+      "name": "OresIngot",
+      "type": "item",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ores_ingot"
+    },
+    {
+      "name": "OresOre",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ores_ore"
+    },
+    {
+      "name": "OresBlock",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ores_block"
+    },
+    {
+      "name": "OresOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ores_ore_block_recipe"
+    },
+    {
+      "name": "OresBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ores_block_ore_recipe"
+    },
+    {
+      "name": "OresOreSmelting",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ores_ore_smelting"
+    },
+    {
+      "name": "WoodsWood",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_wood"
+    },
+    {
+      "name": "WoodsLog",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_log"
+    },
+    {
+      "name": "WoodsPlanks",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_planks"
+    },
+    {
+      "name": "WoodsLeaves",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_leaves"
+    },
+    {
+      "name": "WoodsStairs",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_stairs"
+    },
+    {
+      "name": "WoodsSlab",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_slab"
+    },
+    {
+      "name": "WoodsFence",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_fence"
+    },
+    {
+      "name": "WoodsFenceGate",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_fence_gate"
+    },
+    {
+      "name": "WoodsPressurePlate",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_pressure_plate"
+    },
+    {
+      "name": "WoodsButton",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_button"
+    },
+    {
+      "name": "WoodsItemsTag",
+      "type": "tag",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_items_tag"
+    },
+    {
+      "name": "WoodsWoodRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_wood_recipe"
+    },
+    {
+      "name": "WoodsPlanksRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_planks_recipe"
+    },
+    {
+      "name": "WoodsStairsRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_stairs_recipe"
+    },
+    {
+      "name": "WoodsSlabRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_slab_recipe"
+    },
+    {
+      "name": "WoodsFenceRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_fence_recipe"
+    },
+    {
+      "name": "WoodsFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_fence_gate_recipe"
+    },
+    {
+      "name": "WoodsPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_pressure_plate_recipe"
+    },
+    {
+      "name": "WoodsButtonRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_button_recipe"
+    },
+    {
+      "name": "WoodsStickRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woods_stick_recipe"
+    },
+    {
+      "name": "FodyFoodEaten",
+      "type": "procedure",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fody_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FodyItemInHandTick",
+      "type": "procedure",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fody_item_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FodyItemIsDroppedByPlayer",
+      "type": "procedure",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fody_item_is_dropped_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FodyItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fody_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FodyLivingEntityIsHitWithItem",
+      "type": "procedure",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fody_living_entity_is_hit_with_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fody",
+      "type": "food",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fody"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.flame.light_block": "Block of Light",
+      "entity.flame.darkdragon": "Darkdragon",
+      "block.flame.deathpack_block": "Block of Deathpack",
+      "item.flame.deathpack_armor_leggings": "Deathpack Leggings",
+      "item.flame.darkbap_armor_chestplate": "Darkbap Chestplate",
+      "item.flame.darkbap_shovel": "Darkbap Shovel",
+      "item.flame.ultran_hoe": "Ultran Hoe",
+      "item.flame.deatharmor_armor_boots": "Deatharmor Boots",
+      "item.flame.deathpack_pickaxe": "Deathpack Pickaxe",
+      "item.flame.light_shovel": "Light Shovel",
+      "block.flame.woods_leaves": "Woods Leaves",
+      "item.flame.light_armor_leggings": "Light Leggings",
+      "item.flame.bye_hoe": "Bye Hoe",
+      "item.flame.darkbap_sword": "Darkbap Sword",
+      "item.flame.darkness": "Darkness",
+      "item.flame.light": "Light",
+      "block.flame.ores_ore": "Ores Ore",
+      "item.flame.deathpack_armor_chestplate": "Deathpack Chestplate",
+      "item.flame.ultran_armor_boots": "Ultran Boots",
+      "item.flame.darkbap": "Darkbap",
+      "item.flame.deathpack_hoe": "Deathpack Hoe",
+      "item.flame.darkdragon_spawn_egg": "Darkdragon Spawn Egg",
+      "block.flame.deathpack_ore": "Deathpack Ore",
+      "item.flame.ultran_armor_leggings": "Ultran Leggings",
+      "item.flame.ultran_pickaxe": "Ultran Pickaxe",
+      "item.flame.light_armor_helmet": "Light Helmet",
+      "item.flame.ores_ingot": "Ores",
+      "block.flame.deathblock": "Deathblock",
+      "item.flame.deathpack_armor_boots": "Deathpack Boots",
+      "item.flame.bye_pickaxe": "Bye Pickaxe",
+      "item.flame.deathpack_axe": "Deathpack Axe",
+      "item.flame.bye_shovel": "Bye Shovel",
+      "item.flame.ultran_shovel": "Ultran Shovel",
+      "block.flame.darkblock": "Darkblock",
+      "block.flame.woods_planks": "Woods Planks",
+      "item.flame.darkbap_armor_boots": "Darkbap Boots",
+      "block.flame.light_ore": "Light Ore",
+      "item.flame.darkbap_axe": "Darkbap Axe",
+      "item.flame.deatharmor_armor_leggings": "Deatharmor Leggings",
+      "item.flame.deathpack": "Deathpack",
+      "item.flame.ultran_ingot": "Ultran",
+      "block.flame.woods_stairs": "Woods Stairs",
+      "block.flame.ores_block": "Block of Ores",
+      "biome.flame.darkbiome": "Darkbiome",
+      "block.flame.woods_button": "Woods Button",
+      "item.flame.darkbap_pickaxe": "Darkbap Pickaxe",
+      "item.flame.deatharmor_armor_helmet": "Deatharmor Helmet",
+      "item.flame.light_armor_chestplate": "Light Chestplate",
+      "item.flame.darkbap_armor_leggings": "Darkbap Leggings",
+      "fluid.flame.deathf": "Deathf",
+      "item.flame.fody": "Fody",
+      "item.flame.deatharmor_armor_chestplate": "Deatharmor Chestplate",
+      "item.flame.darkbap_armor_helmet": "Darkbap Helmet",
+      "block.flame.darkbap_ore": "Darkbap Ore",
+      "item.flame.deathpack_sword": "Deathpack Sword",
+      "block.flame.woods_slab": "Woods Slab",
+      "block.flame.woods_wood": "Woods Wood",
+      "item.flame.light_pickaxe": "Light Pickaxe",
+      "item.flame.light_axe": "Light Axe",
+      "biome.flame.dead": "Dead",
+      "item.flame.light_armor_boots": "Light Boots",
+      "block.flame.woods_fence_gate": "Woods Fence Gate",
+      "item.flame.deathpack_armor_helmet": "Deathpack Helmet",
+      "block.flame.darkbap_block": "Block of Darkbap",
+      "item.flame.bye_axe": "Bye Axe",
+      "block.flame.deathf": "Deathf",
+      "item.flame.deathpack_shovel": "Deathpack Shovel",
+      "item.flame.deathsward": "Deathsward",
+      "item.flame.deathf_bucket": "Deathf Bucket",
+      "item.flame.darkbap_hoe": "Darkbap Hoe",
+      "item.flame.bye_sword": "Bye Sword",
+      "block.flame.woods_pressure_plate": "Woods Pressure Plate",
+      "item.flame.darksward": "Darksward",
+      "block.flame.ultran_ore": "Ultran Ore",
+      "item.flame.death": "Death Portal Igniter",
+      "item.flame.dark": "Dark Portal Igniter",
+      "item.flame.ultran_axe": "Ultran Axe",
+      "item.flame.ultran_armor_helmet": "Ultran Helmet",
+      "item.flame.ultran_armor_chestplate": "Ultran Chestplate",
+      "item.flame.light_sword": "Light Sword",
+      "item.flame.ultran_sword": "Ultran Sword",
+      "item.flame.light_hoe": "Light Hoe",
+      "block.flame.woods_log": "Woods Log",
+      "block.flame.ultran_block": "Block of Ultran",
+      "block.flame.woods_fence": "Woods Fence"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "flame",
+    "modName": "flame",
+    "version": "1.0.2",
+    "author": "willi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.flame",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "flame:block/light_block"
+    }
+  }
+}

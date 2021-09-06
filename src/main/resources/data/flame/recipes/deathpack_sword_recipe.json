@@ -1,0 +1,24 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:deathpack"
+    },
+    "1": {
+      "item": "flame:deathpack"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "flame:deathpack_sword",
+    "count": 1
+  }
+}

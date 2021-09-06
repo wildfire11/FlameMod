@@ -1,0 +1,12 @@
+{
+  "group": "flame",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "flame:ultran_ore"
+  },
+  "result": {
+    "item": "flame:ultran_ingot"
+  }
+}

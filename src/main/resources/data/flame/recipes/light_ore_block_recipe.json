@@ -1,0 +1,42 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:light"
+    },
+    "1": {
+      "item": "flame:light"
+    },
+    "2": {
+      "item": "flame:light"
+    },
+    "3": {
+      "item": "flame:light"
+    },
+    "4": {
+      "item": "flame:light"
+    },
+    "5": {
+      "item": "flame:light"
+    },
+    "6": {
+      "item": "flame:light"
+    },
+    "7": {
+      "item": "flame:light"
+    },
+    "8": {
+      "item": "flame:light"
+    }
+  },
+  "result": {
+    "item": "flame:light_block",
+    "count": 1
+  }
+}

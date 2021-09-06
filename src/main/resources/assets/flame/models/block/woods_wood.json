@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "flame:blocks/woods_log_side",
+    "particle": "flame:blocks/woods_log_side"
+  }
+}

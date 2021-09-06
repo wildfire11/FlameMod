@@ -1,0 +1,26 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:deathpack"
+    },
+    "2": {
+      "item": "flame:deathpack"
+    },
+    "3": {
+      "item": "flame:deathpack"
+    },
+    "5": {
+      "item": "flame:deathpack"
+    }
+  },
+  "result": {
+    "item": "flame:deathpack_armor_boots",
+    "count": 1
+  }
+}

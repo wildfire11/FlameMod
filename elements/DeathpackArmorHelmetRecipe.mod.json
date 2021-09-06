@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Deathpack"
+      },
+      {
+        "value": "CUSTOM:Deathpack"
+      },
+      {
+        "value": "CUSTOM:Deathpack"
+      },
+      {
+        "value": "CUSTOM:Deathpack"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Deathpack"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DeathpackArmor.helmet"
+    },
+    "name": "deathpack_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}

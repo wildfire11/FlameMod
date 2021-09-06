@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "flame:blocks/cdfgdfg",
+    "up": "flame:blocks/cdfgdfg",
+    "north": "flame:blocks/cdfgdfg",
+    "east": "flame:blocks/cdfgdfg",
+    "south": "flame:blocks/cdfgdfg",
+    "west": "flame:blocks/cdfgdfg",
+    "particle": "flame:blocks/cdfgdfg"
+  }
+}

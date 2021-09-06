@@ -1,0 +1,57 @@
+{
+  "_fv": 24,
+  "_type": "fluid",
+  "definition": {
+    "name": "Deathf",
+    "bucketName": "Deathf Bucket",
+    "textureStill": "rgdsrgdrgdr",
+    "textureFlowing": "rgdsrgdrgdr",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 20,
+    "levelDecrease": 5,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 2.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "temperature": 305,
+    "type": "LAVA",
+    "generateBucket": true,
+    "textureBucket": "dstgdsfdfsdf",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 10,
+    "lightOpacity": 0,
+    "emissiveRendering": false,
+    "tickRate": 10,
+    "flammability": 7,
+    "fireSpreadSpeed": 7,
+    "colorOnMap": "DEFAULT",
+    "frequencyOnChunks": 10,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:Death",
+      "CUSTOM:Dark",
+      "Nether",
+      "End"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "bamboo_jungle_hills"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "badlands_plateau"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.SOUL_SOIL"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "airColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.MAGMA"
+    },
+    "portalParticles": {
+      "value": "SMOKE_NORMAL"
+    },
+    "portalLuminance": 10,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Death Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "death",
+    "portalTexture": "hg",
+    "enablePortal": true
+  }
+}

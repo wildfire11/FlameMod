@@ -1,0 +1,29 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:darkbap"
+    },
+    "1": {
+      "item": "flame:darkbap"
+    },
+    "2": {
+      "item": "flame:darkbap"
+    },
+    "3": {
+      "item": "flame:darkbap"
+    },
+    "5": {
+      "item": "flame:darkbap"
+    }
+  },
+  "result": {
+    "item": "flame:darkbap_armor_helmet",
+    "count": 1
+  }
+}

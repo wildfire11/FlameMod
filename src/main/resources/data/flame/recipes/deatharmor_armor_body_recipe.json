@@ -1,0 +1,39 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:deathblock"
+    },
+    "2": {
+      "item": "flame:deathblock"
+    },
+    "3": {
+      "item": "flame:deathblock"
+    },
+    "4": {
+      "item": "flame:deathblock"
+    },
+    "5": {
+      "item": "flame:deathblock"
+    },
+    "6": {
+      "item": "flame:deathblock"
+    },
+    "7": {
+      "item": "flame:deathblock"
+    },
+    "8": {
+      "item": "flame:deathblock"
+    }
+  },
+  "result": {
+    "item": "flame:deatharmor_armor_chestplate",
+    "count": 1
+  }
+}

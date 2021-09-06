@@ -1,0 +1,13 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "flame:deathpack_block"
+    }
+  ],
+  "result": {
+    "item": "flame:deathpack",
+    "count": 9
+  }
+}

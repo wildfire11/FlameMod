@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "flame:blocks/ores_ore_block",
+    "particle": "flame:blocks/ores_ore_block"
+  }
+}

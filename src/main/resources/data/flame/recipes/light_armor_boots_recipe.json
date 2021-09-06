@@ -1,0 +1,26 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:light"
+    },
+    "2": {
+      "item": "flame:light"
+    },
+    "3": {
+      "item": "flame:light"
+    },
+    "5": {
+      "item": "flame:light"
+    }
+  },
+  "result": {
+    "item": "flame:light_armor_boots",
+    "count": 1
+  }
+}

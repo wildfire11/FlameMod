@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "flame:blocks/woods_planks",
+    "top": "flame:blocks/woods_planks",
+    "side": "flame:blocks/woods_planks"
+  }
+}

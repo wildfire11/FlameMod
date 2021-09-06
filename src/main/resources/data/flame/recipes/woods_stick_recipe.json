@@ -1,0 +1,20 @@
+{
+  "group": "flame",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "flame:woods_planks"
+    },
+    "1": {
+      "item": "flame:woods_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}
